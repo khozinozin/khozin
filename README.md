@@ -6,5 +6,5 @@
 <ul>
 <h1>Nama : Khozin </h1>
 <h2>Nim : 145610077</h2>
-<h3>Jurusan : SI </h3>
+<h3>Jurusan : Sistem Informasi </h3>
 </ul>
